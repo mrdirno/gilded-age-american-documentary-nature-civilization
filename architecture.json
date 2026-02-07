@@ -1,0 +1,161 @@
+{
+  "book_id": "gilded-age-american-documentary-nature-civilization",
+  "title": "The Gilded Tapestry: Blood, Feathers, and Iron",
+  "tagline": "In the fever dream of America's becoming, creation and destruction were the same furious act.",
+  "target_words": 70000,
+  "actual_words": 70831,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Transactional Nature of Extinction",
+    "Documentation as Both Preservation and Theft",
+    "The Single Organism of America",
+    "The Mechanical Hunger of Progress",
+    "The Ghost-Limb of the Civil War"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Last Passenger Pigeon",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Arsenal of Curiosities",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Palace on Fifth Avenue",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Stitches on the World",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Barrel from Saginaw",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Mathematics of Survival",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Derrick's Swing",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "The Diminished Stream",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Camphor-Scented Halls",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Market Hunter's Ledger",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Unbought Raphaels",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The Cold Stone Feeling",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Specimen's Wing",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Raw, Red Scar",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Arsenic Soap",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Head-Smashed-In Buffalo Jump",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Ballroom Measured for Three Hundred",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Telegraph's Convergence",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Fossilized Teeth",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Sweet, Rotten Scent",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "The Feather in the Hatband",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Tremble Underfoot",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Convulsing Organism",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Threads of the Tapestry",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the shipping agent with the waxed mustache, detailing the strange cargo he's seen cross the country.",
+      "Compose the field notes of Professor Thorne as he dissects the passenger pigeon, his scientific observations mingling with a growing dread.",
+      "Write a monologue by Cornelius Lattimore addressed to the portrait of a business rival, explaining why his new palace needs a gallery of extinct birds.",
+      "Create the oral story Mato's father tells upon returning from the hunt, describing the 'confused, diminished streams' of the buffalo."
+    ],
+    "technical": [
+      "Build an interactive map tracing the routes of the market hunters' telegraph messages and the railroad lines that shipped the barrels of pigeons.",
+      "Create a data visualization of the logarithmic decline of the passenger pigeon population against the linear growth of railroad track mileage, 1850-1880."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John James Audubon (for the documenting eye that loves what it kills)",
+      "Theodore Roosevelt (for the contradictory conservationist and expansionist drive)",
+      "Rebecca Harding Davis (for the lens of industrial life and its human/natural cost)",
+      "Black Elk (for the perspective of the land as a living, wounded organism)"
+    ]
+  },
+  "cover_prompt": "A massive, skeletal bison skull, half-submerged in a river of rusted railroad spikes and glistening black crude oil, its hollow eye socket cradling a perfectly preserved but lifeless hummingbird nest, [Detailed Scene & Context: the scene is set at the violent confluence of a pristine, wild forest and an encroaching industrial complex; telegraph wires stretch into the distance like a metallic web, while in the foreground, a ghostly, translucent Union soldier's hand reaches from the soil to touch a single, blood-red feather resting on a surveyor's map, all under a sky that is both a breathtaking sunset and the sooty glow of furnace fires], [Artistic Style & Medium: in the hyper-detailed, symbolic, and hauntingly luminous style of a composite between Thomas Cole's epic American landscapes and Zdzisław Beksiński's dystopian surrealism, rendered as a photorealistic oil painting with etched engraving textures], [Composition & Camera: a dramatic, wide-angle book cover composition, centered on the skull, with a low camera angle looking up to emphasize the monumental scale of the scene, elements of nature and industry clashing at the edges], [Lighting & Color Palette: chiaroscuro lighting with a stark contrast between the gilded, amber light of a dying sun and the cold, electric blue-white glare of arc lamps, palette of tarnished gold, oxidized copper, arterial crimson, iron black, and sickly verdigris], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
