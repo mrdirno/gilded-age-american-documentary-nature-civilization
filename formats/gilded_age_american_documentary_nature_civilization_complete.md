@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The last passenger pigeon on earth did not die in a cage in Cincinnati. It died in a gunshot blast of feathers over a Michigan oak grove in 1878, though the man who fired the shot didn’t know it, and the bird itself certainly had no conception of finality. It was simply flying, one body in a river of bodies, when the lead pellet tore through its breast. It fell like a greenish-blue stone into the marsh grass. The man, a market hunter named Ephraim Shaw, waded out to retrieve it, his boots sucking at the black mud. He tied its feet with twine to the dozens of others already slung over his shoulder, a dripping bouquet of iridescent necks and blood-specked beaks. The weight was good. He’d get eight cents a bird in Saginaw. That evening, as he packed the birds in barrels with salt and ice, he noticed one had a peculiar white fleck on its tail feather. He plucked it, stuck it in his hatband for luck. Then he sealed the barrel and thought no more about it.
+Copperplate letters on the glass door read *American Zoological Society*, but the stench inside was pure tannery. A taxidermied bison stared through the window, its glass eyes reflecting the new steel bridge, the smoking factories, the city devouring the wilderness it was meant to document.
+
 
 The end of the world, you see, is rarely an event. It is a transaction.
 
