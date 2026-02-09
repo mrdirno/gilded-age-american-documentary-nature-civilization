@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The last passenger pigeon on earth did not die in a cage in Cincinnati. It died in a gunshot blast of feathers over a Michigan oak grove in 1878, though the man who fired the shot didn’t know it, and the bird itself certainly had no conception of finality. It was simply flying, one body in a river of bodies, when the lead pellet tore through its breast. It fell like a greenish-blue stone into the marsh grass. The man, a market hunter named Ephraim Shaw, waded out to retrieve it, his boots sucking at the black mud. He tied its feet with twine to the dozens of others already slung over his shoulder, a dripping bouquet of iridescent necks and blood-specked beaks. The weight was good. He’d get eight cents a bird in Saginaw. That evening, as he packed the birds in barrels with salt and ice, he noticed one had a peculiar white fleck on its tail feather. He plucked it, stuck it in his hatband for luck. Then he sealed the barrel and thought no more about it.
@@ -87,6 +89,8 @@ He paused. The numbers swam before his eyes. He did not finish the sentence. Ins
 *“This feather is white.”*
 
 Outside, on Fifth Avenue, the rhythmic pounding of pile-drivers echoed, building Cornelius Lattimore’s palace. The sound was the drumbeat of a new world, a world of steel and stone and steam. In his quiet, chemical-scented ark, Alden Thorne listened to that drumbeat, and he gently closed the ledger on a feather that was white.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -197,6 +201,8 @@ Back in the workshop, Eleanor was shading the powerful hump of the bison in her 
 Thorne looked at the pigeon, the bison, the ledger open to the page with the white feather. He was an archivist of loss. Now, he was being summoned to the very engine of that loss, to a palace built on the proceeds of it, to explain a small, personal instance of it to a boy who would one day inherit the engine.
 
 “I believe,” he said, his voice barely audible over the distant, eternal pounding from the city outside, “I have just been purchased.”
+
+# Chapter 3
 
 ## **Chapter 3**
 
